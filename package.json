@@ -2,7 +2,7 @@
     "name": "troff",
     "displayName": "TROFF Syntax",
     "description": "TROFF Syntax Highlighter for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "ban",
     "engines": {
         "vscode": "^1.5.0"
@@ -11,19 +11,30 @@
         "Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "troff",
-            "aliases": ["Troff", "troff"],
-            "extensions": [".troff", ".nroff", ".groff"],
-            "configuration": "./troff.json"
-        }],
-        "grammars": [{
-            "language": "troff",
-            "scopeName": "text.troff",
-            "path": "./syntaxes/troff.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "troff",
+                "aliases": [
+                    "Troff",
+                    "troff"
+                ],
+                "extensions": [
+                    ".troff",
+                    ".nroff",
+                    ".groff"
+                ],
+                "configuration": "./troff.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "troff",
+                "scopeName": "text.troff",
+                "path": "./syntaxes/troff.tmLanguage"
+            }
+        ]
     },
-   "icon": "icon.png",
+    "icon": "icon.png",
     "license": "SEE LICENSE IN LICENSE.md",
     "homepage": "https://github.com/bartosz-antosik/vscode-troff/README.md",
     "repository": {
