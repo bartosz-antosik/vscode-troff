@@ -6,7 +6,7 @@ TROFF Syntax Highlighter for Visual Studio Code.
 
 This extension is syntax highlighter for troff (groff, nroff) U**x document formatting system language.
 
-![sample-1](media/screenshot.png)
+![screenshot](media/screenshot.png)
 
 ## Installation
 
