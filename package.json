@@ -10,6 +10,11 @@
     "categories": [
         "Languages"
     ],
+    "keywords": [
+        "troff",
+        "nroff",
+        "groff"
+    ],
     "contributes": {
         "languages": [
             {

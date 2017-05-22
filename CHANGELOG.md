@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.3** released on 23rd May 2017
+
+- **Change:** Keywords provided in package metadata for easier reference.
+
 ## **1.0.2** released on 5th May 2017
 
 - **Change:** Screenshot update.
