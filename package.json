@@ -1,8 +1,8 @@
 {
     "name": "troff",
     "displayName": "TROFF Syntax",
-    "description": "TROFF Syntax Highlighter for Visual Studio Code",
-    "version": "1.0.8",
+    "description": "TROFF Syntax Highlighter",
+    "version": "1.0.10",
     "publisher": "ban",
     "engines": {
         "vscode": "^1.5.0"
