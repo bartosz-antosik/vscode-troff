@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.8** released on 13th September 2017
+
+- **Change:** New icon & small README.md changes.
+
 ## **1.0.3** released on 23rd May 2017
 
 - **Change:** Keywords provided in package metadata for easier reference.
