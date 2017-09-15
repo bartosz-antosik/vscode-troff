@@ -1,8 +1,8 @@
 # Change Log
 
-## **1.0.10** released on 13th September 2017
+## **1.0.12** released on 15th September 2017
 
-- **Change:** New icon & small README.md changes.
+- **Change:** New icon & small documentation updates.
 
 ## **1.0.3** released on 23rd May 2017
 
