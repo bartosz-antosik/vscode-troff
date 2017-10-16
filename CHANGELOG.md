@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.14** released on 17th October 2017
+
+- **Change:** Screenshot update.
+
 ## **1.0.12** released on 15th September 2017
 
 - **Change:** New icon & small documentation updates.
