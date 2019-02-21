@@ -2,7 +2,7 @@
 .output
 *.vsix
 .samples
-.study
+.research
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
