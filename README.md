@@ -12,7 +12,7 @@ This extension is syntax highlighter for [troff](https://en.wikipedia.org/wiki/T
 
 Search for *TROFF Syntax* from the extension installer within VSCode or execute below line in the **command palette** (**F1**/**Ctrl+Shift+P**):
 ```
-ext install troff
+ext install ban.troff
 ```
 
 # Issues

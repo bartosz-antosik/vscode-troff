@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.20** released on 8th October 2019
+
+- **Change:** Added support for numbers as chapter file extensions (`.1`, `.2` etc.) Thanks to [@walles](https://github.com/walles).
+
 ## **1.0.18** released on 22nd August 2018
 
 - **Change:** Screenshot update.
