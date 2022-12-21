@@ -2,7 +2,7 @@
     "name": "troff",
     "displayName": "TROFF Syntax",
     "description": "TROFF Syntax Highlighter",
-    "version": "1.0.24",
+    "version": "1.0.26",
     "publisher": "ban",
     "engines": {
         "vscode": "^1.66.0"
