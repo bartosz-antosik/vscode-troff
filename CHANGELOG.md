@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.24** released on 21st December 2022
+
+- **Change:** Badges in README updated according to Marketplace policy.
+
 ## **1.0.22** released on 8th October 2019
 
 - **Change:** Added support for numbers as chapter file extensions (`.1`, `.2` etc.) Thanks to [@walles](https://github.com/walles).
